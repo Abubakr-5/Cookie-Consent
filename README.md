@@ -7,3 +7,5 @@ This is just a simple visual representation and does not include actual cookies.
 ## Preview
 
 ![image](https://github.com/user-attachments/assets/21c77a3f-6a1e-48f2-8463-412f35926490)
+
+project url: https://roadmap.sh/projects/cookie-consent
